@@ -1,4 +1,4 @@
-# Đề tài: Hệ thống quản lý cửa hàng bán gấu bông
+# Đề tài:  Phần mềm quản lý cửa hàng bán gấu bông
 
 ## Thành viên nhóm:
 | STT | Tên thành viên   | Chức vụ      |
@@ -12,4 +12,4 @@
 
 ## Giới thiệu đề tài
 
-Hệ thống quản lý cửa hàng bán gấu bông là một giải pháp phần mềm tích hợp giúp quản lý toàn bộ quy trình hoạt động của cửa hàng bán gấu bông. Mục tiêu của hệ thống là tối ưu hóa việc quản lý sản phẩm, đơn hàng, khách hàng, và báo cáo doanh thu, từ đó nâng cao hiệu quả hoạt động và phục vụ khách hàng tốt hơn.
+Phần mềm quản lý cửa hàng bán gấu bông là một giải pháp phần mềm tích hợp giúp quản lý toàn bộ quy trình hoạt động của cửa hàng bán gấu bông. Mục tiêu của hệ thống là tối ưu hóa việc quản lý sản phẩm, đơn hàng, khách hàng, và báo cáo doanh thu, từ đó nâng cao hiệu quả hoạt động và phục vụ khách hàng tốt hơn.
