@@ -1,0 +1,16 @@
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\GUI.exe.config
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\GUI.exe
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\GUI.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.exe
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\DTO.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\DTO.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\BLL.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\BLL.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\bin\Debug\DTO.dll.config
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\GUI\obj\Debug\GUI.frm_Main.resources
