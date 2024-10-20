@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 17, 16.5" name="ql_gau_bong">
+  <DataContextMoniker Name="/ql_gau_bongDataContext" />
+  <nestedChildShapes>
+    <classShape Id="77082d68-142c-40cd-80c2-3a6e1112aa85" absoluteBounds="6.25, 5.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/BANGDICHVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4aaedda-6195-48e6-9679-fb66eb49c9c5" absoluteBounds="6.265, 5.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1ee51e8a-ac8f-49a9-b1a3-726fc7b6a0d0" absoluteBounds="3.5, 8.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/QUYENCHUCVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e990a981-39c2-4523-9ad0-10fbdd7315c8" absoluteBounds="3.515, 8.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20832c40-b34e-4d3e-8e99-a176399fc304" absoluteBounds="12, 5.375, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/CHITIETDDH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e9ff27b2-9cf1-4ba9-8f88-5e913aa93e54" absoluteBounds="12.015, 5.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="669a7f90-a1b9-4ebd-9777-87107f7787d1" absoluteBounds="9, 5.25, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/CHITIETDICHVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d768ca1f-7de6-4690-b6bb-d09a5ed6520d" absoluteBounds="9.015, 5.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9d2bb7c8-2e5b-469d-af28-e1b164e36881" absoluteBounds="9, 14.375, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/CHITIETHD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80160e91-35ec-45b4-9444-b94d6caee8de" absoluteBounds="9.015, 14.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67007cb6-3110-4012-a60d-e82854c66a13" absoluteBounds="9, 11.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/CHITIETPHIEUKHO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e16ce074-8072-4a15-bdda-44155fb6469f" absoluteBounds="9.015, 11.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="176c931e-81fc-4dc3-879c-d9e46864ee5d" absoluteBounds="14.75, 6.75, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/CHITIETPN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="705bb9ce-4b44-4173-97f7-a17c9a7d4dc2" absoluteBounds="14.765, 7.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53d7f9f3-72dc-41f0-9d2d-cba67633cacb" absoluteBounds="0.75, 9.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/CHUCVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6feaf42a-f14e-4e86-b39f-d7536a84e35d" absoluteBounds="0.765, 9.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5e90ac2-036f-4826-9178-2036debcb314" absoluteBounds="9.25, 8, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/DONDATHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a31afa6-6e6d-4cdb-8c16-571fbda2b8eb" absoluteBounds="9.265, 8.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="303acd31-f229-4284-b17b-84e637ca4f1c" absoluteBounds="9.25, 0.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/HANGHOA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc11bdaa-7f2f-4213-8a27-b7c89774fb06" absoluteBounds="9.265, 1.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77386648-4736-4494-86f9-73ed9b1ef01c" absoluteBounds="6.25, 14.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/HOADONBANHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="feed6687-acb7-4008-a635-dd750cbfc784" absoluteBounds="6.265, 14.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bc96dc6a-e41c-4c2e-902b-ba63c67a5519" absoluteBounds="3.5, 5.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/KHACHHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c5b5d1d-251c-4e72-a969-7e829ab1e4cc" absoluteBounds="3.515, 5.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="76673810-2295-4d67-bc1c-4e1284c86e12" absoluteBounds="0.75, 7.5, 2, 1.1939925130208353">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/MANHINH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88b7714a-cc33-409a-bb72-5c080258724b" absoluteBounds="0.765, 7.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="59d1c993-598e-41c5-b678-52b5f29dae68" absoluteBounds="6.5, 2.375, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/NHACUNGCAP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26d0dc23-507b-4083-9def-5fd3a7719c12" absoluteBounds="6.515, 2.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e46aa8c-5f27-4ec4-b732-617032cf1f22" absoluteBounds="3.5, 11, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4624c5c3-8f88-46c9-9dcf-3426d38ea060" absoluteBounds="3.515, 11.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2572b320-94d0-4a18-a7cc-56981eb4ec58" absoluteBounds="6.25, 8.25, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/PHIEUDICHVU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19fb80ea-98d4-4ae3-8dfc-77e2ba0562cc" absoluteBounds="6.265, 8.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a5dbb71-0a82-47f4-91ec-28f2fc64e3f3" absoluteBounds="6.25, 11.375, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/PHIEUKHO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0c8b8a7-80b5-41a3-93b5-d06f553508d3" absoluteBounds="6.265, 11.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ff0de0a-9fed-429c-8440-f54a2fb34af7" absoluteBounds="12, 8.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ql_gau_bongDataContext/PHIEUNHAP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="95d3f76b-e1ba-44ec-863e-18f94b35476f" absoluteBounds="12.015, 8.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 6.19314697265625); (8.32291666666667 : 6.19314697265625 : JumpStart); (8.48958333333333 : 6.19314697265625 : JumpEnd); (9 : 6.19314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/BANGDICHVU/BANGDICHVU_CHITIETDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="77082d68-142c-40cd-80c2-3a6e1112aa85" />
+        <classShapeMoniker Id="669a7f90-a1b9-4ebd-9777-87107f7787d1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 6.94794840494792); (14.75 : 6.94794840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/CHITIETDDH/CHITIETDDH_CHITIETPN" />
+      <nodes>
+        <classShapeMoniker Id="20832c40-b34e-4d3e-8e99-a176399fc304" />
+        <classShapeMoniker Id="176c931e-81fc-4dc3-879c-d9e46864ee5d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 9.63064697265625); (3.5 : 9.63064697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/CHUCVU/CHUCVU_QUYENCHUCVU" />
+      <nodes>
+        <classShapeMoniker Id="53d7f9f3-72dc-41f0-9d2d-cba67633cacb" />
+        <classShapeMoniker Id="1ee51e8a-ac8f-49a9-b1a3-726fc7b6a0d0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 8); (11.625 : 7.625); (11.625 : 6.26044840494792); (11.7291666666667 : 6.26044840494792 : JumpStart); (11.9583333333333 : 6.26044840494792 : JumpEnd); (12 : 6.26044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/DONDATHANG/DONDATHANG_CHITIETDDH" />
+      <nodes>
+        <classShapeMoniker Id="a5e90ac2-036f-4826-9178-2036debcb314" />
+        <classShapeMoniker Id="20832c40-b34e-4d3e-8e99-a176399fc304" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 2.21235270182292); (13 : 2.21235270182292); (13 : 5.375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/HANGHOA/HANGHOA_CHITIETDDH" />
+      <nodes>
+        <classShapeMoniker Id="303acd31-f229-4284-b17b-84e637ca4f1c" />
+        <classShapeMoniker Id="20832c40-b34e-4d3e-8e99-a176399fc304" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.125 : 3.67470540364583); (10.125 : 5.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/HANGHOA/HANGHOA_CHITIETDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="303acd31-f229-4284-b17b-84e637ca4f1c" />
+        <classShapeMoniker Id="669a7f90-a1b9-4ebd-9777-87107f7787d1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 3.63931978826122); (11.875 : 4.26431978826122); (11.875 : 14); (11.375 : 14); (11 : 14.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/HANGHOA/HANGHOA_CHITIETHD" />
+      <nodes>
+        <classShapeMoniker Id="303acd31-f229-4284-b17b-84e637ca4f1c" />
+        <classShapeMoniker Id="9d2bb7c8-2e5b-469d-af28-e1b164e36881" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 3.6439351728766); (11.8125 : 4.2064351728766); (11.8125 : 10.75); (11.375 : 10.75); (11.2151755650989 : 10.9098244349011 : JumpStart); (11.0973244349011 : 11.0276755650989 : JumpEnd); (11 : 11.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/HANGHOA/HANGHOA_CHITIETPHIEUKHO" />
+      <nodes>
+        <classShapeMoniker Id="303acd31-f229-4284-b17b-84e637ca4f1c" />
+        <classShapeMoniker Id="67007cb6-3110-4012-a60d-e82854c66a13" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 15.2604484049479); (9 : 15.2604484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/HOADONBANHANG/HOADONBANHANG_CHITIETHD" />
+      <nodes>
+        <classShapeMoniker Id="77386648-4736-4494-86f9-73ed9b1ef01c" />
+        <classShapeMoniker Id="9d2bb7c8-2e5b-469d-af28-e1b164e36881" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.47449961313101 : 6.95359537760417); (5.875 : 7.35409576447316); (5.875 : 15.2027498372396); (6.25 : 15.2027498372396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/KHACHHANG/KHACHHANG_HOADONBANHANG" />
+      <nodes>
+        <classShapeMoniker Id="bc96dc6a-e41c-4c2e-902b-ba63c67a5519" />
+        <classShapeMoniker Id="77386648-4736-4494-86f9-73ed9b1ef01c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 8.53449625651042); (3.5 : 8.53449625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/MANHINH/MANHINH_QUYENCHUCVU" />
+      <nodes>
+        <classShapeMoniker Id="76673810-2295-4d67-bc1c-4e1284c86e12" />
+        <classShapeMoniker Id="1ee51e8a-ac8f-49a9-b1a3-726fc7b6a0d0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 4.14589680989583); (8.40625 : 8.09375); (9.25 : 8.09375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/NHACUNGCAP/NHACUNGCAP_DONDATHANG" />
+      <nodes>
+        <classShapeMoniker Id="59d1c993-598e-41c5-b678-52b5f29dae68" />
+        <classShapeMoniker Id="a5e90ac2-036f-4826-9178-2036debcb314" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 13.4415511067708); (5.79166666666667 : 13.4415511067708 : JumpStart); (5.95833333333333 : 13.4415511067708 : JumpEnd); (11.15625 : 13.4415511067708); (11.15625 : 10.3478011067708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/NHANVIEN/NHANVIEN_DONDATHANG" />
+      <nodes>
+        <classShapeMoniker Id="6e46aa8c-5f27-4ec4-b732-617032cf1f22" />
+        <classShapeMoniker Id="a5e90ac2-036f-4826-9178-2036debcb314" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 13.5401025390625); (4.5 : 14.6326224186198); (5.79166666666667 : 14.6326224186198 : JumpStart); (5.95833333333333 : 14.6326224186198 : JumpEnd); (6.25 : 14.6326224186198)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/NHANVIEN/NHANVIEN_HOADONBANHANG" />
+      <nodes>
+        <classShapeMoniker Id="6e46aa8c-5f27-4ec4-b732-617032cf1f22" />
+        <classShapeMoniker Id="77386648-4736-4494-86f9-73ed9b1ef01c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 10.6939925130208); (1.75 : 12.2700512695312); (3.5 : 12.2700512695312)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/CHUCVU/CHUCVU_NHANVIEN" />
+      <nodes>
+        <classShapeMoniker Id="53d7f9f3-72dc-41f0-9d2d-cba67633cacb" />
+        <classShapeMoniker Id="6e46aa8c-5f27-4ec4-b732-617032cf1f22" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.25); (8.625 : 7.875); (8.625 : 6.73442460742188); (9 : 6.73442460742188)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/PHIEUDICHVU/PHIEUDICHVU_CHITIETDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="2572b320-94d0-4a18-a7cc-56981eb4ec58" />
+        <classShapeMoniker Id="669a7f90-a1b9-4ebd-9777-87107f7787d1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.89652208318309); (6.03125 : 7.42777208318309); (6.03125 : 9.23159912109375); (6.25 : 9.23159912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/KHACHHANG/KHACHHANG_PHIEUDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="bc96dc6a-e41c-4c2e-902b-ba63c67a5519" />
+        <classShapeMoniker Id="2572b320-94d0-4a18-a7cc-56981eb4ec58" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.0615374615385); (5.81607443490112 : 10.7454630266373 : JumpStart); (5.93392556509888 : 10.6276118964396 : JumpEnd); (6.0625 : 10.4990374615385); (6.0625 : 9.75365068164063); (6.25 : 9.75365068164063)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/NHANVIEN/NHANVIEN_PHIEUDICHVU" />
+      <nodes>
+        <classShapeMoniker Id="6e46aa8c-5f27-4ec4-b732-617032cf1f22" />
+        <classShapeMoniker Id="2572b320-94d0-4a18-a7cc-56981eb4ec58" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 12.2604484049479); (9 : 12.2604484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/PHIEUKHO/PHIEUKHO_CHITIETPHIEUKHO" />
+      <nodes>
+        <classShapeMoniker Id="6a5dbb71-0a82-47f4-91ec-28f2fc64e3f3" />
+        <classShapeMoniker Id="67007cb6-3110-4012-a60d-e82854c66a13" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.2604484049479); (5.79166666666667 : 12.2604484049479 : JumpStart); (5.95833333333333 : 12.2604484049479 : JumpEnd); (6.25 : 12.2604484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/NHANVIEN/NHANVIEN_PHIEUKHO" />
+      <nodes>
+        <classShapeMoniker Id="6e46aa8c-5f27-4ec4-b732-617032cf1f22" />
+        <classShapeMoniker Id="6a5dbb71-0a82-47f4-91ec-28f2fc64e3f3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 9.23724659375); (15.75 : 9.23724659375); (15.75 : 8.52089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/PHIEUNHAP/PHIEUNHAP_CHITIETPN" />
+      <nodes>
+        <classShapeMoniker Id="7ff0de0a-9fed-429c-8440-f54a2fb34af7" />
+        <classShapeMoniker Id="176c931e-81fc-4dc3-879c-d9e46864ee5d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 9.16429768880208); (11.7291666666667 : 9.16429768880208 : JumpStart); (11.9583333333333 : 9.16429768880208 : JumpEnd); (12 : 9.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ql_gau_bongDataContext/DONDATHANG/DONDATHANG_PHIEUNHAP" />
+      <nodes>
+        <classShapeMoniker Id="a5e90ac2-036f-4826-9178-2036debcb314" />
+        <classShapeMoniker Id="7ff0de0a-9fed-429c-8440-f54a2fb34af7" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

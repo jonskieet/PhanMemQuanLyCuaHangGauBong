@@ -1,0 +1,6 @@
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\UC\bin\Debug\UC.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\UC\bin\Debug\UC.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\UC\obj\Debug\UC.csproj.AssemblyReference.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\UC\obj\Debug\UC.csproj.CoreCompileInputs.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\UC\obj\Debug\UC.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\UC\obj\Debug\UC.pdb

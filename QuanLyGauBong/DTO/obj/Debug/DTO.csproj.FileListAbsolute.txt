@@ -1,0 +1,7 @@
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\bin\Debug\DTO.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\bin\Debug\DTO.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\obj\Debug\DTO.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\obj\Debug\DTO.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DTO\bin\Debug\DTO.dll.config

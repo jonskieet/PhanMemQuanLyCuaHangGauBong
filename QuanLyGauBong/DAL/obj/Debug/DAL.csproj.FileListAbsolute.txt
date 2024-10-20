@@ -1,0 +1,10 @@
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\bin\Debug\DAL.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\bin\Debug\DAL.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\obj\Debug\DAL.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\obj\Debug\DAL.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\bin\Debug\DTO.dll
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\bin\Debug\DTO.pdb
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\DAL\bin\Debug\DTO.dll.config
