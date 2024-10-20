@@ -9,6 +9,7 @@
 | 4   | Nguyễn Thị Thuỳ Dương   | Thành viên   |
 | 5   | Nguyễn Hoài Nam   | Thành viên   |
 | 6   | Lê Minh Khoa   | Thành viên   |
+| 6   | Huỳnh Tấn Kiệt   | Thành viên   |
 
 ## Giới thiệu đề tài
 
