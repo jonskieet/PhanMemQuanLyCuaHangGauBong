@@ -1,6 +1,0 @@
-D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyCuaHang\BLL\bin\Debug\BLL.dll
-D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyCuaHang\BLL\bin\Debug\BLL.pdb
-D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyCuaHang\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyCuaHang\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyCuaHang\BLL\obj\Debug\BLL.dll
-D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyCuaHang\BLL\obj\Debug\BLL.pdb
