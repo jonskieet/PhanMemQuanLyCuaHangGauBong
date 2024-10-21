@@ -10,3 +10,15 @@ D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGau
 D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DAL.dll
 D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DAL.pdb
 D:\HK7\Công nghệ phần mềm nâng cao\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DTO.dll.config
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\BLL.dll
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\BLL.pdb
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DAL.dll
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DTO.dll
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DAL.pdb
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DTO.pdb
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\bin\Debug\DTO.dll.config
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\obj\Debug\BLL.dll
+D:\Hoc\IT\HOCKY_7\Công Nghệ Phần Mềm NC\PhanMemQuanLyCuaHangGauBong\QuanLyGauBong\BLL\obj\Debug\BLL.pdb

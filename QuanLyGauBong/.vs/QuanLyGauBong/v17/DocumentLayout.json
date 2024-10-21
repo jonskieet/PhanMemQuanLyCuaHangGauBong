@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1D064B9-7BB4-4E52-A1E2-554354439E6A}|GUI\\GUI.csproj|d:\\hoc\\it\\hocky_7\\c\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m nc\\phanmemquanlycuahanggaubong\\quanlygaubong\\gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1D064B9-7BB4-4E52-A1E2-554354439E6A}|GUI\\GUI.csproj|solutionrelative:gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1D064B9-7BB4-4E52-A1E2-554354439E6A}|GUI\\GUI.csproj|D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1D064B9-7BB4-4E52-A1E2-554354439E6A}|GUI\\GUI.csproj|d:\\hoc\\it\\hocky_7\\c\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m nc\\phanmemquanlycuahanggaubong\\quanlygaubong\\gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1D064B9-7BB4-4E52-A1E2-554354439E6A}|GUI\\GUI.csproj|solutionrelative:gui\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,46 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frm_Main.cs",
+              "Title": "frm_Main.cs [Design]",
               "DocumentMoniker": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_Main.cs",
               "RelativeDocumentMoniker": "GUI\\frm_Main.cs",
-              "ToolTip": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_Main.cs",
-              "RelativeToolTip": "GUI\\frm_Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_Main.cs [Design]",
+              "RelativeToolTip": "GUI\\frm_Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:02:10.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-10-21T05:51:26.129Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "GUI\\Program.cs",
               "ToolTip": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\Program.cs",
               "RelativeToolTip": "GUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:01:53.019Z"
+              "WhenOpened": "2024-10-20T15:01:53.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_Main.cs [Design]",
-              "DocumentMoniker": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_Main.cs",
-              "RelativeDocumentMoniker": "GUI\\frm_Main.cs",
-              "ToolTip": "D:\\HK7\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m n\u00E2ng cao\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_Main.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HK7\\C\u00F4ng ngh\u1EC7 ph\u1EA7n m\u1EC1m n\u00E2ng cao\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_Main.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:01:22.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frm_DangNhap.cs [Design]",
               "DocumentMoniker": "D:\\Hoc\\IT\\HOCKY_7\\C\u00F4ng Ngh\u1EC7 Ph\u1EA7n M\u1EC1m NC\\PhanMemQuanLyCuaHangGauBong\\QuanLyGauBong\\GUI\\frm_DangNhap.cs",
               "RelativeDocumentMoniker": "GUI\\frm_DangNhap.cs",
